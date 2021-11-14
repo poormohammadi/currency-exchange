@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Functionality
+## Functionality
 User has three wallets:
 - USD (initial balance $200)
 - EUR (initial balance €150)
