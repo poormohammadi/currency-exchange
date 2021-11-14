@@ -1,0 +1,27 @@
+.NumberInput-input {
+    outline: none;
+    max-width: 60px;
+    font-size: 21px;
+    border-bottom: 2px dotted grey;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+    background: transparent;
+}
+
+.NumberInput-sign {
+    font-size: 25px;
+    color: lightgray;
+}
+
+.NumberInput-error{
+    color: red;
+    font-size: 11px;
+    margin-top: 8px;
+}
+
+.NumberInput-input-box {
+    display: flex;
+    justify-content: flex-end;
+}

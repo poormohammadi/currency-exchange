@@ -1,0 +1,25 @@
+.CurrencyRow-container {
+    background-color: white;
+    display: flex;
+    padding: 40px 20px;
+    justify-content: space-between;
+}
+
+.CurrencyRow-container-deposit {
+    background-color: #ededed;
+}
+
+.CurrencyRow-container-withdraw {
+    background-color: white;
+}
+
+.CurrencyRow-balance-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.CurrencyRow-balance-text {
+    font-size: 14px;
+    color: #484848;
+    margin-top: 10px;
+}

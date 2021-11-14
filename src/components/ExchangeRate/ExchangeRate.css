@@ -1,0 +1,19 @@
+.ExchangeRate-row {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    transform: translateY(-50%);
+    top: 50%;
+}
+
+.ExchangeRate-container {
+    background-color: white;
+    padding: 5px 20px;
+    border-radius: 15px;
+    border: 1px solid green;
+    font-size: 14px;
+}
+
+.ExchangeRate-container-error{
+    border: 1px solid red;
+}
